@@ -1,4 +1,4 @@
-# -classification-using-gradient-descent-and-its-varient-Adam-NAG-Momentum-
+# -classification-using-gradient-descent-and-its-varient-Adam-NAG-Momentum
 
 The goal of this Project is to implement and use gradient descent (and its variants) with backpropagation for a classification task.This network will be trained and tested using the Fashion-MNIST dataset. Specifically, given an input image (28 x 28 = 784
 pixels) from the Fashion-MNIST dataset,the network will be trained to classify the image into 1 of 10 classes.wiht differnet different loss function and ativation function like-sigmoid,tanh.
